@@ -5,10 +5,9 @@ Este repositorio contiene la implementación de una solución de **Business Inte
 
 ---
 
-## 👥 Integrantes
-* **[Tu Nombre / Marlon Mora]**
-* **[Integrante 2]**
-* **[Integrante 3]**
+## 👥 Integrante
+* **Marlon Andres Mora Vasco**
+
 
 ---
 
